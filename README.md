@@ -1,4 +1,4 @@
-<h1>👋🏼 Hi there, السلام عليكم والرحمة</h1>
+<h3>👋🏼 Hi there, السلام عليكم والرحمة</h3>
 
 - 🌟 I’m a UX/UI designer & iOS developer
 - 🤔 I'm always looking for ways to improve things
