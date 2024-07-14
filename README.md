@@ -1,4 +1,10 @@
-## Hi there 👋
+##👋🏼 Hi there, السلام عليكم والرحمة
+
+- 🌟 I’m a UX/UI designer & iOS developer
+- 🤔 I'm always looking for ways to improve things
+- 💬 Ask me anything on Telegram @iRandaMB
+- 🚀 You can check out my portfolio on <a href="https://www.behance.net/renadmajed">Behance</a>
+- 📫 Feel free to reach me at rm.basulayman@gmail.com
 
 <!--
 **iRandaMB/iRandaMB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
